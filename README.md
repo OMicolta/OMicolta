@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OMicolta
+- 👋 Hi, I’m @OMicolta | Developer who loves to write best-practice software
 - 👀 I’m interested in backend development and cloud computing
 - 🌱 I’m currently learning English and Cloud Computing
 - 💞️ I’m looking to collaborate on challenging projects
