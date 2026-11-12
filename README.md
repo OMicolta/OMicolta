@@ -24,4 +24,4 @@ Small farmers in Colombia buy seeds, fertilizer and other supplies on informal c
 `Python` `FastAPI` `TypeScript` `Next.js` `React` `Flutter` `PostgreSQL` `Supabase` `scikit-learn` `LLM agents` `Docker`
 
 #### 📫 Contact
-[fiopago.com](https://fiopago.com)
+[LinkedIn](https://www.linkedin.com/in/oivarmicolta) · [fiopago.com](https://fiopago.com)
