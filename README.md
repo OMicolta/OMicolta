@@ -1,27 +1,20 @@
 ### Hi, I'm Oivar 👋
 
-Founder of **[Fiopago](https://fiopago.com)**, an agri-fintech platform in Colombia. I also build its whole tech stack.
+I'm building **[Fiopago](https://fiopago.com)**.
 
-#### 🌱 Fiopago
-Small farmers in Colombia buy seeds, fertilizer and other supplies on informal credit ("fío") from their local agro-store, on paper and with no risk data. Fiopago turns that into a **Buy-Now-Pay-Later rail for agriculture**:
+In rural Colombia, farmers buy the inputs for their harvest on credit at their local farm-supply store and pay when they harvest. That credit keeps the countryside running, but it lives in a paper notebook. Fiopago is the infrastructure for agriculture to buy and sell on credit: the store approves each purchase with a real-time risk score, and the farmer pays no interest. It's already in production, with real farmers.
 
-- the store keeps selling on credit, now backed by a **real-time risk score** for each purchase
-- farmers pay **zero interest**, in a single payment aligned with their cycle
-- Fiopago is a **technology platform, not a lender**: it charges the store a fee per approved credit
+We're two founders and I'm the technical side of the team. My job is to make Fiopago reliable with real money: every credit is audited, balances and payments always reconcile, and one store's data never mixes with another's. That's what lets a two-person team run a financial product in production. I also own the WhatsApp integration, the infrastructure and security, and I built the AI agent that serves stores over WhatsApp.
 
-**What I've built (end to end):**
-- **Scoring API**: Python · FastAPI · Pydantic, with an ML credit-risk model for thin-file farmers
-- **3 web portals** (stores, farmers, internal ops): Next.js · React · TypeScript · Tailwind
-- **LLM agents on WhatsApp**: the conversational assistants that store owners and farmers talk to
-- **Data & infra**: Supabase/Postgres with RLS, Render, Vercel, Cloudflare, n8n automations
+This isn't our first startup together: we previously built Lowit, where I was co-founder and CTO.
 
-#### 🛠️ Other things I've built
-- **ValorVis**: property-value estimator for social housing (VIS/VIP) in Colombia
-- **Moneti**: personal-finance app (Flutter + TypeScript agent)
-- **GoFutbol**: social network for amateur football
+Before that, 6+ years building fintech and payment systems in LATAM: multi-bank collection integrations and payment systems with multiple gateways, where a mistake is measured in other people's money.
 
-#### 🧰 Stack
-`Python` `FastAPI` `TypeScript` `Next.js` `React` `Flutter` `PostgreSQL` `Supabase` `scikit-learn` `LLM agents` `Docker`
+#### Other things I've built
+- **[ValorVis](https://valorvis.com)**: property-value estimator for social housing in Colombia
+- **Moneti**: a private personal-finance assistant
+- **GoFutbol**: a social network for amateur football
 
-#### 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/oivarmicolta) · [fiopago.com](https://fiopago.com)
+<sub>Day to day: Python · TypeScript · Java · .NET · PostgreSQL · LLM agents</sub>
+
+📫 [LinkedIn](https://www.linkedin.com/in/oivarmicolta) · [fiopago.com](https://fiopago.com)
